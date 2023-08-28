@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom'; 
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom'; 
 import './index.css'; 
 import Home from './components/Home';
 import About from './components/About';
@@ -6,15 +6,14 @@ import Gallery from './components/Gallery';
 import Pricing from './components/Pricing';
 import Getintouh from './components/Getintouh';
 import React, { useState } from 'react'; 
-import { motion, useScroll, AnimatePresence } from "framer-motion" 
-import Faq from './components/Faq';
+import { motion, useScroll, AnimatePresence } from "framer-motion"  
 
 function App() {
 
   const { scrollYProgress } = useScroll()
  
   return (
-    <BrowserRouter>  
+    <HashRouter>  
         <AnimatePresence>
             <motion.div
                 style={{
@@ -41,7 +40,7 @@ function App() {
             </Routes>
 
         </AnimatePresence>   
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
