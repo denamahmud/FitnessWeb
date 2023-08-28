@@ -16,9 +16,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                 className='w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/11.jpg"}
-                  medium={"/static/11.jpg"}
-                  large={"/static/11.jpg"} 
+                  small={"static/11.jpg"}
+                  medium={"static/11.jpg"}
+                  large={"static/11.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover'
                 />
             </motion.div> 
@@ -29,9 +29,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/22.jpg"}
-                  medium={"/static/22.jpg"}
-                  large={"/static/22.jpg"} 
+                  small={"static/22.jpg"}
+                  medium={"static/22.jpg"}
+                  large={"static/22.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover'
                 />
             </motion.div> 
@@ -42,9 +42,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/33.jpg"}
-                  medium={"/static/33.jpg"}
-                  large={"/static/33.jpg"} 
+                  small={"static/33.jpg"}
+                  medium={"static/33.jpg"}
+                  large={"static/33.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover'
                 />
             </motion.div> 
@@ -55,9 +55,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/44.jpg"}
-                  medium={"/static/44.jpg"}
-                  large={"/static/44.jpg"} 
+                  small={"static/44.jpg"}
+                  medium={"static/44.jpg"}
+                  large={"static/44.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover	'
                 />
             </motion.div> 
@@ -68,9 +68,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/55.jpg"}
-                  medium={"/static/55.jpg"}
-                  large={"/static/55.jpg"} 
+                  small={"static/55.jpg"}
+                  medium={"static/55.jpg"}
+                  large={"static/55.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover	'
                 />
             </motion.div> 
@@ -81,9 +81,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/77.jpg"}
-                  medium={"/static/77.jpg"}
-                  large={"/static/77.jpg"} 
+                  small={"static/77.jpg"}
+                  medium={"static/77.jpg"}
+                  large={"static/77.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover'
                 />
             </motion.div> 
@@ -94,9 +94,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/99.jpg"}
-                  medium={"/static/99.jpg"}
-                  large={"/static/99.jpg"} 
+                  small={"static/99.jpg"}
+                  medium={"static/99.jpg"}
+                  large={"static/99.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover'
                 />
             </motion.div> 
@@ -107,9 +107,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                  className='  w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/43.jpg"}
-                  medium={"/static/43.jpg"}
-                  large={"/static/43.jpg"} 
+                  small={"static/43.jpg"}
+                  medium={"static/43.jpg"}
+                  large={"static/43.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover	'
                 />
             </motion.div> 
@@ -120,9 +120,9 @@ function Gallery( ) {
                 transition={{ duration: 0.6}} 
                 className='w-4/5 mx-auto mb-8'>
                 <ModalImage
-                  small={"/static/71.jpg"}
-                  medium={"/static/71.jpg"}
-                  large={"/static/71.jpg"} 
+                  small={"static/71.jpg"}
+                  medium={"static/71.jpg"}
+                  large={"static/71.jpg"} 
                   className='w-full rounded-3xl h-64 object-cover	'
                 />
             </motion.div> 

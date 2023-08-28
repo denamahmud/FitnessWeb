@@ -10,7 +10,7 @@ function About( ) {
  
  
         <div className=' w-3/5 mx-auto '>
-           <img src="/static/1.jpg" className='w-full rounded-3xl	' />
+           <img src="static/1.jpg" className='w-full rounded-3xl	' />
         </div>
         <div>
             <div className='flex items-center'>
