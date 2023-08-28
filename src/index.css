@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+html{
+   overflow-x: hidden;
+}
+.custom_conatainer{
+    width: 80%;
+    margin: 0 auto;
+}
+.image{
+    background-image: url('../public/static/2.jpg');
+    background-position: center;
+    background-size: cover; 
+    height: 80vh;
+}
+.nav{
+    padding: 50px 0;
+    background-color: black;
+    color: #fff;
+    z-index: 1000; 
+    transition: all 0.3s ease-in-out;
+}
+
+.fixed{
+    position: fixed;
+    top: 0;
+    padding: 10px 0; 
+    width: 100%;
+    background-color: rgba(0,0,0,.5);
+    backdrop-filter: blur(20px); 
+
+}
+
+@keyframes changewidth {
+    from {
+      scale : 1
+    }
+  
+    to {
+      scale: 1.1;
+    }
+  }
+  
+.animate_div {
+    animation-duration: 0.5s;
+    animation-name: changewidth;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+  }
+
+
+ .active{
+      font-weight: bold;
+      color: #2b6cb0; /* Example color */
+ }
+ .inactive{
+    background-color: none;
+ }
+
+.item{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+} 
+ .content{
+    color : '#445566';
+    height: 0;
+    visibility: hidden;
+    transition: all 0.4s; 
+    opacity: 0;
+ }
+
+ .content.show{
+     visibility: visible;
+     opacity: 1;
+     height: 80px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
