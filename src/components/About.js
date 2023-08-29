@@ -9,7 +9,7 @@ function About( ) {
       className='custom_conatainer grid grid-cols-1 sm:grid-cols-2 gap-20 py-40 ' id='section2'>
  
  
-        <div className=' w-3/5 mx-auto '>
+        <div className='w-4/5	sm:w-3/5 mx-auto '>
            <img src="static/1.jpg" className='w-full rounded-3xl	' />
         </div>
         <div>

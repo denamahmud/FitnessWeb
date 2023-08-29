@@ -70,7 +70,7 @@ function Pricing() {
                     <p className="my-5 text-justify">
                         Lorem ipsum dolor sit amet consectetur adipisicing
                     </p>
-                    <div>
+                    <div className="my-20">
                         <div className="flex my-5">
                             <FaCheck color="#fff"/>
                             <p className="ml-5">Instructor</p>
@@ -80,7 +80,7 @@ function Pricing() {
                             <p className="ml-5">Free Drink</p>
                         </div>
                         <div className="flex my-5">
-                            <FaTimes color="#A6A6A6"/>
+                            <FaCheck color="#fff"/>
                             <p className="ml-5">Get Supplement</p>
                         </div>
                         <div className="flex my-5">
@@ -93,7 +93,7 @@ function Pricing() {
 
 
                     <div className="flex flex-col ">
-                        <p className="text-white text-2xl font-extrabold">25$</p>
+                        <p className="text-white text-2xl font-extrabold">125$</p>
                 
                         <div className=' w-1/2 mt-5'>
                             <div className='text-center text-orange py-2 rounded-xl bg-white cursor-pointer'>
@@ -126,11 +126,11 @@ function Pricing() {
                             <p className="ml-5">Free Drink</p>
                         </div>
                         <div className="flex my-5">
-                            <FaTimes color="#A6A6A6"/>
+                            <FaCheck color="#fff"/>
                             <p className="ml-5">Get Supplement</p>
                         </div>
                         <div className="flex my-5">
-                            <FaTimes color="#A6A6A6"/>
+                            <FaCheck color="#fff"/>
                             <p className="ml-5">Free Support</p>
                         </div>
                         
@@ -139,7 +139,7 @@ function Pricing() {
 
 
                     <div className="flex flex-col ">
-                        <p className="text-orange text-2xl font-extrabold">25$</p>
+                        <p className="text-orange text-2xl font-extrabold">225$</p>
                 
                         <div className=' w-1/2 mt-5'>
                             <div className='text-center text-white py-2 rounded-xl bg-orange cursor-pointer'>
