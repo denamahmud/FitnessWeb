@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FitnessWeb/static/css/main.84d688d5.css",
-    "main.js": "/FitnessWeb/static/js/main.3c402b5b.js",
+    "main.css": "/FitnessWeb/static/css/main.a1bd4042.css",
+    "main.js": "/FitnessWeb/static/js/main.1d7837ec.js",
     "static/media/2.jpg": "/FitnessWeb/static/media/2.fe97c024a8d8c818c2b0.jpg",
     "index.html": "/FitnessWeb/index.html",
-    "main.84d688d5.css.map": "/FitnessWeb/static/css/main.84d688d5.css.map",
-    "main.3c402b5b.js.map": "/FitnessWeb/static/js/main.3c402b5b.js.map"
+    "main.a1bd4042.css.map": "/FitnessWeb/static/css/main.a1bd4042.css.map",
+    "main.1d7837ec.js.map": "/FitnessWeb/static/js/main.1d7837ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.84d688d5.css",
-    "static/js/main.3c402b5b.js"
+    "static/css/main.a1bd4042.css",
+    "static/js/main.1d7837ec.js"
   ]
 }
