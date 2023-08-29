@@ -126,11 +126,11 @@ function Pricing() {
                             <p className="ml-5">Free Drink</p>
                         </div>
                         <div className="flex my-5">
-                            <FaCheck color="#fff"/>
+                            <FaCheck color="#A6A6A6"/>
                             <p className="ml-5">Get Supplement</p>
                         </div>
                         <div className="flex my-5">
-                            <FaCheck color="#fff"/>
+                            <FaCheck color="#A6A6A6"/>
                             <p className="ml-5">Free Support</p>
                         </div>
                         
